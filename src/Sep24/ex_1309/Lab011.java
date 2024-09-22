@@ -7,7 +7,7 @@ import java.util.Scanner;
     Print - a+b, a-b, ab, a/b, a%b all the outputs.
     * */
 
-public class Lab11 {
+public class Lab011 {
     public static void main(String[] args) {
         System.out.println("Program start");
         System.out.println();
